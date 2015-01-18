@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+from test3 import printstring
+printstring.printstring("test script working")
+print "test over"
