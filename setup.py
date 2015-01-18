@@ -9,6 +9,8 @@ setup(name="schemup",
       url="https://github.com/brendonh/schemup",
       long_description=open('README.md').read(),
 
+      scripts=['scripts/schemup'],
+
       packages = find_packages(),
 
       install_requires = [
